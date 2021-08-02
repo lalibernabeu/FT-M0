@@ -1,0 +1,13 @@
+h1 {
+    color: blueviolet}
+img {
+    width: 400px}
+#thirdDiv {
+    background-color: coral; 
+    width: 500; 
+    height: 600px; 
+    padding: 50px; 
+    border-color: crimson; 
+    border-radius: 4px}
+#spanId {
+    font-size: 18px;}
