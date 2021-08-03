@@ -7,7 +7,7 @@ img {
     width: 500; 
     height: 600px; 
     padding: 50px; 
-    border-color: crimson; 
-    border-radius: 4px}
+    border-top-width: 34px;
+    border-color: crimson;}
 #spanId {
     font-size: 18px;}
